@@ -1,2 +1,2 @@
 # rubyonrails-example
-My implementation of the Getting Started with Rails guide
+My example implementation of Rails following the [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html) guide.
